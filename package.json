@@ -1,0 +1,30 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "description": "playground",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashakirzianov/ts-playground.git"
+  },
+  "keywords": [
+    "playground"
+  ],
+  "author": "Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashakirzianov/ts-playground/issues"
+  },
+  "homepage": "https://github.com/ashakirzianov/ts-playground#readme",
+  "devDependencies": {
+    "typescript": "^2.3.4"
+  },
+  "dependencies": {
+    "ts-lint": "^4.5.1",
+    "ts-node": "^3.0.6"
+  }
+}
